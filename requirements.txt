@@ -5,3 +5,5 @@ google-search-results
 ipykernel
 boto3
 medium-api
+pytrends
+matplotlib

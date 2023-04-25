@@ -4,7 +4,7 @@ services:
   py_sandbox:
     container_name: py_sandbox
     build: .
-    image: py_env
+    image: py_sandbox
     env_file:
       - .env
     volumes:
